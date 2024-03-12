@@ -1,0 +1,126 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    font-size: 25px;
+}
+
+hr {
+    margin: 0px;
+    padding: 0px;
+}
+
+.text {
+    text-align: left;
+    margin-left: 10px;
+}
+
+button {
+    margin-top: 35px;
+    background-color: wheat;
+    color: black;
+    width: 15%;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.imagens {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 10%;
+}
+
+#lorem {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+
+#p1 {
+    margin-left: 10px;
+    background-color: blue;
+}
+
+#p2 {
+    margin-left: 25px;
+    background-color: red;
+}
+
+#p3 {
+    margin-left: 40px;
+    background-color: bisque;
+}
+
+#p4 {
+    margin-left: 55px;
+    background-color: coral;
+}
+
+#p5 {
+    margin-left: 70px;
+    background-color: gold;
+}
+
+#p5 {
+    margin-left: 85px;
+    background-color:crimson
+}
+
+#p6 {
+    margin-left: 105px;
+    background-color:dimgray
+}
+
+#p7 {
+    margin-left: 120px;
+    background-color:green
+}
+
+#p8 {
+    margin-left: 135px;
+    background-color:mediumspringgreen
+}
+
+#p9 {
+    margin-left: 150px;
+    background-color:hotpink
+}
+
+#p10 {
+    margin-left: 165px;
+    background-color:brown;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10%;
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+}
+
+#sec1 {
+    display: flex;
+}
+
+.imagem1 {
+
+    flex: 33.33%;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+#sec2 {
+    display: flex;
+}
